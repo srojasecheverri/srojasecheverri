@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srojasecheverri
 - 👀 I’m interested in all data analysis project
-- 🌱 I’m currently learning Sparks
+- 🌱 I’m currently learning dbt and coding
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me: srojasecheverri@gmail.com
 
